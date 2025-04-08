@@ -10,6 +10,8 @@
 
 #### [Browser processes and CRP](browser/1.md)
 
+#### [Browsing context: WindowProxy, inner and outer window](https://udn.realityripple.com/docs/Mozilla/Developer_guide/Inner_and_outer_windows)
+
 ## Gitlab
 
 #### [Gitlab](gitlab/1.md)
