@@ -2,6 +2,13 @@
 
 ### ASMT
 
+## OOP principles, pros/cons
+- [Encapsulation](oop/1.md)
+- [Abstraction](oop/2.md)
+- [Inheritance](oop/3.md)
+- [Polymorphism](oop/4.md)
+- [Dependency injection](oop/5.md)
+
 ## Communication Protocols
 
 #### [API Documentation(Swagger, Open API, Postman)](protocols/1.md)
