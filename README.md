@@ -18,7 +18,7 @@
 - [Recursion](fp/6.md)
 - [Currying/Partial Application/Memoization](fp/7.md)
 
-## Functional Programming vs OOP paradigms, composition over inheritance
+## [Functional Programming vs OOP paradigms, composition over inheritance](topics/1.md)
 
 ## Reactive programming (eg. RXJS) pros/cons:
 - Streams, observables, merging, writing declarative code, avoiding callback hell, threading and asynchronous mechanisms implementation, purity, etc.  
