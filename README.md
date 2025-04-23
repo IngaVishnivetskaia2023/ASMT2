@@ -10,7 +10,7 @@
 - [Dependency injection](oop/5.md)
 
 ## Functional programming pros/cons
-- [FP: most adequate quide(https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch02#a-quick-review)]
+- [FP: most adequate quide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch02#a-quick-review)]
 - [Pure functions, side effects](fp/1.md)
 - [Immutability](fp/2.md)
 - [Functions as first-class entities](fp/3.md)
