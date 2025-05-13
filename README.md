@@ -29,6 +29,7 @@
 
 #### [API Documentation(Swagger, Open API, Postman)](protocols/1.md)
 #### [GraphQL](protocols/2.md)
+#### [Authentication](protocols/3.md)
 
 ## Browser
 
