@@ -44,3 +44,8 @@
 #### [Gitlab](gitlab/1.md)
 
 #### [AI](ai/1.md)
+
+## Code quality
+
+#### [Code quality](quality/1.md)
+
