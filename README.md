@@ -52,4 +52,5 @@
 ## Patters
 
 #### [What is a Pattern?](patterns/1.md)
+#### [“Pattern”-ity Testing, Proto-Patterns, and the Rule of Three](patterns/2.md)
 
