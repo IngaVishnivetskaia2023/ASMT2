@@ -55,4 +55,5 @@
 #### [“Pattern”-ity Testing, Proto-Patterns, and the Rule of Three](patterns/2.md)
 #### [Modern JavaScript Syntax and Features](patterns/3.md)
 #### [Categories of Design Patterns](patterns/4.md)
+#### [JavaScript Design Patterns](patterns/5.md)
 
