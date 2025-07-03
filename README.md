@@ -54,4 +54,5 @@
 #### [What is a Pattern?](patterns/1.md)
 #### [“Pattern”-ity Testing, Proto-Patterns, and the Rule of Three](patterns/2.md)
 #### [Modern JavaScript Syntax and Features](patterns/3.md)
+#### [Categories of Design Patterns](patterns/4.md)
 
