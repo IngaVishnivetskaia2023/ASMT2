@@ -49,3 +49,7 @@
 
 #### [Code quality](quality/1.md)
 
+## Patters
+
+#### [What is a Pattern?](patterns/1.md)
+
