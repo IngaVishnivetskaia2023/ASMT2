@@ -58,6 +58,9 @@
 #### [V8 hidden classes and inline caching techniques](wpo/11.md)
 #### [Web workers, Service workers, Worklets](wpo/12.md)
 
+## Web Application Design and Framework
+#### [Angular vs React](wadf/1.md)
+
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
 
