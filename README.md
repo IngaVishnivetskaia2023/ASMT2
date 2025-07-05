@@ -54,6 +54,7 @@
 #### [Memory leaks detection](wpo/7.md)
 #### [Network optimizations](wpo/8.md)
 #### [PRPL Pattern](wpo/9.md)
+#### [RAIL Model](wpo/10.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
