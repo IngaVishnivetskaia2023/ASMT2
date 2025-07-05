@@ -49,6 +49,7 @@
 #### [Core Web Vitals](wpo/2.md)
 #### [Event Loop](wpo/3.md)
 #### [High performant animations](wpo/4.md)
+#### [Layout Thrashing](wpo/5.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
