@@ -53,6 +53,7 @@
 #### [Measurement and profiling](wpo/6.md)
 #### [Memory leaks detection](wpo/7.md)
 #### [Network optimizations](wpo/8.md)
+#### [PRPL Pattern](wpo/9.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
