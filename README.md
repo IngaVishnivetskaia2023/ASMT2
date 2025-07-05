@@ -55,6 +55,7 @@
 #### [Network optimizations](wpo/8.md)
 #### [PRPL Pattern](wpo/9.md)
 #### [RAIL Model](wpo/10.md)
+#### [V8 hidden classes and inline caching techniques](wpo/11.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
