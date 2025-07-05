@@ -47,6 +47,7 @@
 
 #### [Critical Rendering Path](wpo/1.md)
 
+## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
 
 ## Code quality
