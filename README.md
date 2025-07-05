@@ -60,6 +60,7 @@
 
 ## Web Application Design and Framework
 #### [Angular vs React](wadf/1.md)
+#### [CSS methodologies](wadf/2.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
