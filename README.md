@@ -43,6 +43,10 @@
 
 #### [Gitlab](gitlab/1.md)
 
+## Web Performance Optimizations
+
+#### [Critical Rendering Path](wpo/1.md)
+
 #### [AI](ai/1.md)
 
 ## Code quality
