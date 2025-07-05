@@ -46,6 +46,7 @@
 ## Web Performance Optimizations
 
 #### [Critical Rendering Path](wpo/1.md)
+#### [Core Web Vitals](wpo/2.md)
 
 ## AI and Prompt Engeneering practices
 #### [AI](ai/1.md)
