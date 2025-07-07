@@ -79,4 +79,5 @@
 #### [Modern JavaScript Syntax and Features](patterns/3.md)
 #### [Categories of Design Patterns](patterns/4.md)
 #### [JavaScript Design Patterns](patterns/5.md)
+#### [Patterns: EPAM Senoir growth](patterns/6.md)
 
