@@ -83,3 +83,9 @@
 #### [JavaScript Design Patterns](patterns/5.md)
 #### [Patterns: EPAM Senoir growth](patterns/6.md)
 
+## React explained (React Key Concepts - Second Edition: Maximilian Schwarzmüller)
+
+### [Understanding React Components and JSX](reactjs/1.md)
+
+
+
