@@ -87,6 +87,7 @@
 
 #### [Understanding React Components and JSX](reactjs/1.md)
 #### [Components and Props](reactjs/2.md)
+#### [Handling Side Effects](reactjs/3.md)
 
 
 
