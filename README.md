@@ -90,6 +90,7 @@
 #### [Handling Side Effects](reactjs/3.md)
 #### [Handling User Input & Forms with Form Actions](reactjs/4.md)
 #### [Server-side Rendering & Building Fullstack Apps with Next.js](reactjs/5.md)
+#### [React Server Components & Server Actions](reactjs/6.md)
 
 
 
