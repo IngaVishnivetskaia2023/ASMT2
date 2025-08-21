@@ -96,6 +96,7 @@
 
 ## CI CD
 #### [Topics overview](ci/1.md)
+#### [Branching strategies](ci/2.md)
 
 
 
