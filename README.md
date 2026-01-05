@@ -81,6 +81,7 @@
 #### [Modern JavaScript Syntax and Features](patterns/3.md)
 #### [Categories of Design Patterns](patterns/4.md)
 #### [JavaScript Design Patterns](patterns/5.md)
+#### [JavaScript MV* Patterns](patterns/8.md)
 #### [Patterns: EPAM Senoir growth](patterns/6.md)
 
 ## React explained (React Key Concepts - Second Edition: Maximilian Schwarzmüller)
