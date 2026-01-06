@@ -83,6 +83,7 @@
 #### [JavaScript Design Patterns](patterns/5.md)
 #### [JavaScript MV* Patterns](patterns/8.md)
 #### [Asynchronous Programming Patterns](patterns/9.md)
+#### [Rendering Patterns](patterns/10.md)
 #### [Patterns: EPAM Senoir growth](patterns/6.md)
 
 ## React explained (React Key Concepts - Second Edition: Maximilian Schwarzmüller)
