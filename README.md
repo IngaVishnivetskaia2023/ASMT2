@@ -13,6 +13,7 @@
 - [Backend Debugging](fullstack/8.md)
 - [Backend Performance](fullstack/9.md)
 - [Scalability Considerations](fullstack/10.md)
+- [Monitoring, Logging, and Incident Handling](fullstack/11.md)
 
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
