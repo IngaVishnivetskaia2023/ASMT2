@@ -11,6 +11,7 @@
 - [BE Testing](fullstack/6.md)
 - [Backend Security Considerations](fullstack/7.md)
 - [Backend Debugging](fullstack/8.md)
+- [Backend Performance](fullstack/9.md)
 
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
