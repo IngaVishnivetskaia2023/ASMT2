@@ -6,6 +6,7 @@
 - [Starting new project](fullstack/1.md)
 - [Setting Up the Backend](fullstack/2.md)
 - [Building the Data Schema](fullstack/3.md)
+- [REST APIs](fullstack/4.md)
 
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
