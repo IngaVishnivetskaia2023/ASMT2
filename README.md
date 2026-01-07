@@ -9,6 +9,7 @@
 - [REST APIs](fullstack/4.md)
 - [Background Jobs](fullstack/5.md)
 - [BE Testing](fullstack/6.md)
+- [Backend Security Considerations](fullstack/7.md)
 
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
