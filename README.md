@@ -8,6 +8,7 @@
 - [Building the Data Schema](fullstack/3.md)
 - [REST APIs](fullstack/4.md)
 - [Background Jobs](fullstack/5.md)
+- [BE Testing](fullstack/6.md)
 
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
