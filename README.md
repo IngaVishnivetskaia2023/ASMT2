@@ -14,6 +14,7 @@
 - [Backend Performance](fullstack/9.md)
 - [Scalability Considerations](fullstack/10.md)
 - [Monitoring, Logging, and Incident Handling](fullstack/11.md)
+- [Integration Concerns](fullstack/13.md)
 - [Building a CI/CD Pipeline](fullstack/12.md)
 
 ## OOP principles, pros/cons
