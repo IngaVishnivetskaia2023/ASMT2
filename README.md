@@ -2,6 +2,9 @@
 
 ### ASMT
 
+## Full Stack JavaScript Strategies
+- [Starting new project](fullstack/1.md)
+
 ## OOP principles, pros/cons
 - [Encapsulation](oop/1.md)
 - [Abstraction](oop/2.md)
