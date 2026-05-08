@@ -5,6 +5,7 @@
 ## Advanced DOM and browser
 - [Overview](dom/1.md)
 - [Compositor Layers](dom/2.md)
+- [Inside look at modern web browser](dom/3.md)
 
 ## MVC Architecture
 - [Overview](mvc/1.md)
