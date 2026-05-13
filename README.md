@@ -68,6 +68,8 @@
 
 ## Web Performance Optimizations
 
+#### [Google Lighthouse](wpo/13.md)
+
 #### [Critical Rendering Path](wpo/1.md)
 #### [Core Web Vitals](wpo/2.md)
 #### [Event Loop](wpo/3.md)
