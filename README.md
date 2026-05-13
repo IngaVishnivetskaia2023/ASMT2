@@ -68,6 +68,7 @@
 
 ## Web Performance Optimizations
 
+#### [Practice tips](wpo/14.md)
 #### [Google Lighthouse](wpo/13.md)
 
 #### [Critical Rendering Path](wpo/1.md)
