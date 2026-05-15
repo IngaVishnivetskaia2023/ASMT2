@@ -6,6 +6,7 @@
 - [Overview](dom/1.md)
 - [Compositor Layers](dom/2.md)
 - [Inside look at modern web browser](dom/3.md)
+- [Critical Rendering Path Finally Explained Well](dom/4.md)
 
 ## MVC Architecture
 - [Overview](mvc/1.md)
