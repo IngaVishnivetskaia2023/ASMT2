@@ -7,6 +7,7 @@
 - [Compositor Layers](dom/2.md)
 - [Inside look at modern web browser](dom/3.md)
 - [Critical Rendering Path Finally Explained Well](dom/4.md)
+- [How to read Performance tab in Dev Tools](dom/5.md)
 
 ## MVC Architecture
 - [Overview](mvc/1.md)
