@@ -38,6 +38,7 @@
 - [Polymorphism](oop/4.md)
 - [Dependency injection](oop/5.md)
 - [Object Oriented JavaScript](oop/6.md)
+- [OOP under the hood](oop/7.md)
 
 ## Functional programming pros/cons
 - [FP: most adequate quide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch02#a-quick-review)]
