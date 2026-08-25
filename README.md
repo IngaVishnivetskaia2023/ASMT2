@@ -3,6 +3,7 @@
 ## Session Questions
 
 - [Programming Paradigms](questions_paradigms/1.md)
+- [React vs Angular Ecosystem](questions_fe_framework/2.md)
 
 ### ASMT
 
