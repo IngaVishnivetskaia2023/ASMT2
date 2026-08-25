@@ -1,5 +1,9 @@
 # ASMT2
 
+## Session Questions
+
+- [Programming Paradigms](questions_paradigms/1.md)
+
 ### ASMT
 
 ## FrontEnd Architecture
