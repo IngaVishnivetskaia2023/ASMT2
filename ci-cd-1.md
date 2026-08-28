@@ -112,6 +112,25 @@ This is why teams use rebase + fast-forward workflow — it keeps history linear
 - 4.  Cherry-Picking Is Clean
 
 
+### Trunk-Based Development (No Long-Lived Branches)
+
+Commit directly to main/develop, or use very short-lived branches (< 1 day).
+
+```
+# Option A: Direct commit
+git checkout main
+git commit -m "Add payment validation"
+git push
+
+# Option B: Short branch, immediate merge
+git checkout -b fix/typo
+git commit -m "Fix typo in payment"
+git checkout main
+git merge --ff-only fix/typo
+git push
+git branch -d fix/typo
+```
+
 
 
 
