@@ -6,6 +6,7 @@
 - [React vs Angular Ecosystem](questions_fe_framework/2.md)
 - [Communication Protocols](protocols/1-1-1.md)
 - [CI/CD/CD, Git](ci-cd-1.md)
+- [SDLC Methodologies](sdlc/1.md)
 
 ### ASMT
 
