@@ -7,6 +7,7 @@
 - [Communication Protocols](protocols/1-1-1.md)
 - [CI/CD/CD, Git](ci-cd-1.md)
 - [SDLC Methodologies](sdlc/1.md)
+- [Complete Mental Model: interaction React SPA](models/1.md)
 
 ### ASMT
 
