@@ -8,6 +8,7 @@
 - [CI/CD/CD, Git](ci-cd-1.md)
 - [SDLC Methodologies](sdlc/1.md)
 - [Complete Mental Model: interaction React SPA](models/1.md)
+- [Complete Mental Model: Login → JWT → API Gateway → Lambda → PostgreSQL](models/2.md)
 
 ### ASMT
 
