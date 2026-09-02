@@ -10,6 +10,7 @@
 - [Complete Mental Model: interaction React SPA](models/1.md)
 - [Complete Mental Model: Login → JWT → API Gateway → Lambda → PostgreSQL](models/2.md)
 - [Современные модели аутентификации и авторизации](auth_/1.md)
+- [Security](security_/1.md)
 
 ### ASMT
 
