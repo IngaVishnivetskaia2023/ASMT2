@@ -12,6 +12,7 @@
 - [Современные модели аутентификации и авторизации](auth_/1.md)
 - [Security](security_/1.md)
 - [CORS vs Same origin](security_/2.md)
+- [Vite vs Webpack](bundlers_/1.md)
 
 ### ASMT
 
