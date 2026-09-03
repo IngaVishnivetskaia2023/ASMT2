@@ -13,6 +13,7 @@
 - [Security](security_/1.md)
 - [CORS vs Same origin](security_/2.md)
 - [Vite vs Webpack](bundlers_/1.md)
+- [Modern Frontend Rendering Techniques](rendering/1.md)
 
 ### ASMT
 
