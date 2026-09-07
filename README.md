@@ -22,6 +22,7 @@
 - [MessageChannel API — Complete Deep Dive](react/1-3.md)
 - [HTML & CSS Coding Principles](html-css/1.md)
 - [How Vite Bundles Different CSS Approaches in React](bundlers_/2.md)
+- [Advanced CSS](html-css/2.md)
 
 ### ASMT
 
