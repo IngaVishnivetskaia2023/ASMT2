@@ -19,6 +19,7 @@
 - [Handling Urgent Mid-Sprint Customer Requests](soft/2.md)
 - [React Fiber — Deep Dive](react/1-1.md)
 - [React Hooks & Fiber — The Deep Connection](react/1-2.md)
+- [MessageChannel API — Complete Deep Dive](react/1-3.md)
 
 ### ASMT
 
