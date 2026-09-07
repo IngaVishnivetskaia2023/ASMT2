@@ -17,6 +17,7 @@
 - [IoC vs DI vs DIP](pr-pt/1.md)
 - [Team Management and Soft Skills](soft/1.md)
 - [Handling Urgent Mid-Sprint Customer Requests](soft/2.md)
+- [React Fiber — Deep Dive](react/1-1.md)
 
 ### ASMT
 
